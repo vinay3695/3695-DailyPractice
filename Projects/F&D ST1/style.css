@@ -1,0 +1,20 @@
+html, body {
+    font-family: 'Oswald', sans-serif, monospace !important;
+}
+
+#div2 {
+    /* background: linear-gradient(135deg, rgba(23,124,45, 85%), rgba(232,12,32,56%)); */
+    background-color: rgba(30, 30, 30, 0.6);
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: black;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #82837f;
+}
